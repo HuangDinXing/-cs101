@@ -1,6 +1,6 @@
 int main()
 {
-    int n=40;
+    int n=10;
     
     if(n%15==0){
         printf("Love IU");
